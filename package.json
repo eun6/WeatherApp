@@ -11,9 +11,11 @@
   },
   "dependencies": {
     "@react-native-community/geolocation": "^3.0.5",
+    "fontisto": "^3.0.4",
     "react": "18.2.0",
     "react-native": "0.71.3",
-    "react-native-localize": "^2.2.4"
+    "react-native-localize": "^2.2.4",
+    "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
